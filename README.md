@@ -1,2 +1,3 @@
-# logica-programacao-visualg
-Exercícios de lógica de programação feitos no curso técnico 
+# Lógica de Programação – Visualg
+
+Este repositório contém exercícios desenvolvidos durante o curso técnico em Desenvolvimento de Sistemas.
