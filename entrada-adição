@@ -1,0 +1,18 @@
+Algoritmo "Entrada Adição"
+// Disciplina   : Algoritmo e Estrutura de Dados
+// Descrição   : Estrutura de entrada de dados
+// Data atual  : 29/04/2025
+Var
+// Seção de Declarações das variáveis
+a, b, soma: real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva("O primeiro número é: ")
+leia(a)
+escreva("O segundo número é: ")
+leia(b)
+soma := a+b
+escreva("A soma é: ",soma)
+
+Fimalgoritmo
